@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-18",
+  "python": "3.12.14",
+  "tests_run": 27,
+  "failures": 0,
+  "errors": 0,
+  "full_default_numerical_repeat_match": true,
+  "prediction_rows": 768,
+  "mlflow": {
+    "backend": "local MLflow SQLite",
+    "run_id": "9b6d0dc59285406d926a3e722e615ff4",
+    "package": "3.18.0",
+    "registry_used": false,
+    "readback_verified": true,
+    "status": "FINISHED",
+    "stored_metric_count": 6,
+    "stored_report_artifact_count": 1
+  },
+  "model_checkpoint_files_written": 0
+}
